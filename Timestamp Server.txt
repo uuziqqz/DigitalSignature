@@ -1,0 +1,7 @@
+时间戳服务器
+Digicert:    http://timestamp.digicert.com
+Symantec:    http://sha256timestamp.ws.symantec.com/sha256/
+Comodo:    http://timestamp.comodoca.com
+Starfield:    http://tsa.starfieldtech.com
+GlobalSign:    http://timestamp.globalsign.com/scripts/timestamp.dll
+!!Certum:    http://time.certum.pl
